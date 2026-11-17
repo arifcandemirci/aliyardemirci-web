@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+*.swp
+# Kaynak özgeçmiş PDF'i yalnızca yerelde tutulur, GitHub'a gönderilmez
+kaynak/
