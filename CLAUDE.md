@@ -40,12 +40,11 @@ Pamukkale Üniversitesi Hukuk Fakültesi Dekanı Prof. Dr. H. Aliyar Demirci iç
 ## Özgeçmişe uygulanan düzeltmeler (yapıldı, bozma)
 - "Takdim" (Mustafa Çalık, MHP Hareketi Kaynakları ve Gelişimi, 2024) kitap bölümü olarak gösteriliyor.
 - "Meşrutiyet Dönemi" (Yakın Dönem Türk Politik Tarihi, 2005) sayfa: ss. 11-23.
-- "Endülüs'ün Aynasında…" hem kitap bölümlerinde hem bildirilerde duruyor.
+- "Endülüs'ün Aynasında…" kitap bölümlerinden kaldırıldı (Arif kararı, 17 Kasım 2026); bildirilerde ve katıldığı bilimsel toplantılarda (27-30 Nisan 2017, Barcelona) duruyor.
 - "31 Mart 2024 Mahallî Seçimleri" makalesi bir kez gösteriliyor (özgeçmişte iki kez geçiyordu).
 - Yazım: Gelişimi, sayı, Osmanlı-Türk, Meşrutiyet.
 
 ## Özgeçmişte çelişkili/belirsiz olup Arif'e sorulacaklar (kendin karar verme)
-- "Endülüs'ün Aynasında…": kitap bölümü satırında tarih 27-30 Aralık 2016, toplantılar satırında 27-30 Nisan 2017 (Barcelona). Şu an özgeçmişteki gibi iki ayrı yerde duruyor.
 - "Ali Fuad Başgil" maddesi (İletişim Yayınları, 2005): özgeçmişte ss. 282-299 yazıyor; bu aralık "Meşrutiyet Dönemi" için de yazılıydı ve o ss. 11-23 olarak düzeltildi. Başgil maddesinin sayfa aralığını hocadan teyit ettir.
 - "Kamusal Alanda Medenîleşme…" ve "Bir Biyografinin İzinde…" gibi satırlarda editör/baskı bilgileri özgeçmişteki gibi bırakıldı.
 
